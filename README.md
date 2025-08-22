@@ -21,9 +21,11 @@ This repository acts as my **learning hub**, where I collect and organize everyt
 2. **Categorize with Tags**  
    - Tags like `Research Paper`, `System desing` ,`Security`, `DSA`, `AI/ML` help classify topics.
 
-3. **Track & Revisit**  
-   - Items can be marked as *to-learn*, *in-progress*, or *completed*.
-   - Easy to revisit previous materials when revising or mentoring.
+3. **Track & Revisit**
+   - Each learning resource is logged as an issue.
+   - After consuming the resource, concise notes or key takeaways are added as comments to the issue.
+   - The issue is closed once the topic/resource is fully completed.
+   - Closed issues serve as a quick reference for revision or when mentoring others.
 
 ## 🔗 Issues Board
 
