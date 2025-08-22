@@ -4,6 +4,11 @@
 
 This repository acts as my **learning hub**, where I collect and organize everything that contributes to my growth, from insightful blogs and technical articles to structured roadmaps and guides. Each item is tracked as a GitHub Issue, making it easy to categorize, revisit, and expand over time.
 
+## 🔗 Issues Board
+
+Browse the full learning list here:  
+[**View Learning Issues**](https://github.com/abhiram-ar/learning-list/issues)
+
 
 ## 📌 Purpose
 
@@ -26,9 +31,3 @@ This repository acts as my **learning hub**, where I collect and organize everyt
    - After consuming the resource, concise notes or key takeaways are added as comments to the issue.
    - The issue is closed once the topic/resource is fully completed.
    - Closed issues serve as a quick reference for revision or when mentoring others.
-
-## 🔗 Issues Board
-
-Browse the full learning list here:  
-[**View Learning Issues**](https://github.com/abhiram-ar/learning-list/issues)
-
