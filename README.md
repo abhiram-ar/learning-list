@@ -19,7 +19,7 @@ This repository acts as my **learning hub**, where I collect and organize everyt
    - Issues include context, notes, and useful links.
 
 2. **Categorize with Tags**  
-   - Tags like `Research Paper`, `System desing`, ,`frontend`, `backend`, `cloud`, `DSA`, `AI/ML` help classify topics.
+   - Tags like `Research Paper`, `System desing` ,`Security`, `DSA`, `AI/ML` help classify topics.
 
 3. **Track & Revisit**  
    - Items can be marked as *to-learn*, *in-progress*, or *completed*.
