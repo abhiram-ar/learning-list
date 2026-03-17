@@ -9,7 +9,7 @@ Issues Board
 ------------
 
 Browse the full learning list here:  
-[**View Learning Issues**](https://github.com/abhiram-ar/learning-list/issues)
+https://github.com/abhiram-ar/learning-list/issues
 
 
 Purpose
@@ -23,14 +23,14 @@ Purpose
 How It Works
 ------------
 
-1. **Add Learning Items**  
-   - Each blog, guide, or resource is added as a **GitHub Issue**.
+1. Add Learning Items
+   - Each blog, guide, or resource is added as a GitHub Issue.
    - Issues include context, notes, and useful links.
 
-2. **Categorize with Tags**  
+2. Categorize with Tags 
    - Tags like `Research Paper`, `System desing` ,`Security`, `DSA`, `AI/ML` help classify topics.
 
-3. **Track & Revisit**
+3. Track & Revisit
    - Each learning resource is logged as an issue.
    - After consuming the resource, concise notes or key takeaways are added as comments to the issue.
    - The issue is closed once the topic/resource is fully completed.
